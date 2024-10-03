@@ -1,0 +1,6 @@
+@DinamisAPI_HostAddress = http://localhost:5133
+
+GET {{DinamisAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

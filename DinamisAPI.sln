@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinamisAPI", "DinamisAPI.csproj", "{E2F9C280-CEDC-4098-84C7-2CDA8494153E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2F9C280-CEDC-4098-84C7-2CDA8494153E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2F9C280-CEDC-4098-84C7-2CDA8494153E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2F9C280-CEDC-4098-84C7-2CDA8494153E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2F9C280-CEDC-4098-84C7-2CDA8494153E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A3CBDE7-7664-4F5E-BA9F-2E34EC6E04FA}
+	EndGlobalSection
+EndGlobal
